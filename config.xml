@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "2009"
         version   = "2.8">
-    <name>Comunis Mobile</name>
+    <name>Comunis Mobile Mexico</name>
 
     <description>
-        Comunis Mobile official app
+        Comunis Mobile Mexico official app
     </description>
 
     <author href="http://comunis.com" email="soporte@comunis.com">
